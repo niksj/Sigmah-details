@@ -41,3 +41,39 @@ The impact of the implementation of this project idea will be a better time mana
 **Knowledge prerequisite**
 
 Java/GWT
+
+##Project idea 2: Easier project model management
+
+Project Difficulty: Medium
+
+**Presentation**
+
+Sigmah's most fundamental feature is the flexibility it gives to organization in the way they can configure it. With this flexibility provided through project models management, organizations are able to design their project information system by themselves, through a graphical interface they're able to use and not by configuration files which scare them in most of the case.
+
+Sigmah flexibility is already provided a great service to its users, but it needs to be enhanced to reply to new needs expressed by users.
+
+**Examples**
+
+User Prority: 1
+
+[#853 Project/orgunit model export/import through an XML format]
+[#514 Hypertext link in field titles]
+[#276 Add a "Groups" tab in project/orgunit model management]
+[#430 Delete group of fields]
+[#511 Category modification flexibility]
+[#854 Docked toolbar for project/orgunit model fields table]
+
+User Prority: 2
+
+[#390 Renaming project/orgunit default fields]
+[#537 Fold by default option for groups]
+[#120 Multilingual project, orgunit, report models & categorie]
+[#527 Twin fields]     
+
+**Impact**
+
+By developing a project idea of that sort, the GSoC volunteer will contribute to allow new usages of Sigmah by its users. It will help Sigmah adoption in wider parts of organization already adopting it.
+
+**Knowledge prerequisite**
+
+Java/GWT.
