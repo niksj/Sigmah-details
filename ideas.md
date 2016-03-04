@@ -3,24 +3,41 @@ This project ideas list is just given as a suggestion. As written in the introdu
 
 But user priority might not be GSoC volunteer priority… A new important feature requested urgently by some users may be felt as boring to develop by a GSoC volunteer. We just give those User priority because we believe that an exciting thing about contributing to Sigmah is that you're helping real users to work more efficiently in their daily work at managing humanitarian projects, and knowing where your help would be the most appreciated by users might be useful.
 
-As a consequence, if a student wants to write its own proposal by mixing some of those projects or taking some inspiration from the roadmap, he's also welcomed to do so.        
+As a consequence, if a student wants to write its own proposal by mixing some of those projects or taking some inspiration from the [roadmap of the project](http://www.sigmah.org/issues/roadmap_page.php) , he's also welcomed to do so.
 
-###Project idea 1: A user-friendly reply to the need of flexible humanitarian projects       
+Finally, for each project idea, we provide a Development Difficulty level to give an hint about how easy or challenging it would be to deal with this idea.     
 
-**Presentation**    
-Humanitarian projects are in some way like IT projects: they must be flexible. The needs of the populations for which they are conducted evolve in the time, some emergency or security situation may transform totally the feasibility of some of the planned activities. As a consequence, a project management system like Sigmah must let the possibility to let its users change their projects along they way, and keep tracks of those different versions. In the contractual world that link often humanitarian organisations with their public donors, those versions are usually linked with an Amendment. A first version of a amendment system has been set up in Sigmah version 1.0. But users have produce a lot of feedbacks on it to ask to change it deeply. Now, based on the experience they get with this first attempt to build a feature which is at the heart of Sigmah, we have a confirmed design of the feature they're expecting as a condition to fully adopt Sigmah in their whole organisations.
+##Project idea 1: Full-featured calendars
 
-This complex and fundamental feature will be graphically designed by a UX Designer from Google working on the project through a French Red Cross - Google France partnership.      
+Project Difficulty: Medium
 
-**Examples**      
+**Presentation**
+
+Sigmah already offers calendars for its users. But those calendars lack some advanced features and a higher level of integration between them, and integration with external calendar tools to reveal their full potential. As an example, when we make a demonstration of Sigmah to new users, 2 out 3 ask us: “Does the calendar integrate with Outlook?”.
+
+More than a restrictive list of new features, this project idea reach to provide a richer calendar experience within Sigmah with a well-designed set of new functionalities. For example the exact way to provide the integration with Outlook is open to proposition to see which calendar should be exported: a new user calendar ? each individual project calendar ? And how then to limit the burden for the user to have too many calendars to export ? A good user experience is strongly expected and good propositions are more than welcome!
+
+**Examples**
+
 User Prority: 1
 
-This project idea corresponds to feature request [0000167: Revise Amendments system behavior](http://www.sigmah.org/issues/view.php?id=167).
+- [#521 Aggregating linked projects calendars](http://www.sigmah.org/issues/view.php?id=521)
+- [#522 Aggregating sub-orgunits calendars](http://www.sigmah.org/issues/view.php?id=522)
+- [#824 Calendars export to other devices](http://www.sigmah.org/issues/view.php?id=824)
+- [#117 User aggregated calendar](http://www.sigmah.org/issues/view.php?id=117)
+- [#78 Add a project and annual view in the calendar](http://www.sigmah.org/issues/view.php?id=78)
+- [#852 Advanced calendar component](http://www.sigmah.org/issues/view.php?id=852)
 
-A preliminary mockup of the desired behavior is available at [this URL](www.sigmah.org/issues/file_download.php?file_id=74&type=bug). This mockup will be completely reviewed and can change totally in terms of graphic design with the help of the Google UX designer.
+User Prority: 2
+
+- [#508 Merge "todo" and "pending" reminders](http://www.sigmah.org/issues/view.php?id=508)
+- [#520 New date field option: saved in calendar](http://www.sigmah.org/issues/view.php?id=520)
+- [#534 Field-linked reminders incentives](http://www.sigmah.org/issues/view.php?id=534)
 
 **Impact**
-The current unsatisfying design of this feature makes it almost unused: with this new design which has been discussed a lot with users, Sigmah will be really able to provide to users the flexibility they need in their project, and the ease of use that produces a good versioning system.
+
+The impact of the implementation of this project idea will be a better time management for NGOs: less forgotten deadline, less uncertainty on some key dates, etc.
 
 **Knowledge prerequisite**
-Java/GWT.
+
+Java/GWT
