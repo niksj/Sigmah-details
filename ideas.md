@@ -56,12 +56,12 @@ Sigmah flexibility is already provided a great service to its users, but it need
 
 User Prority: 1
 
-[#853 Project/orgunit model export/import through an XML format]
-[#514 Hypertext link in field titles]
-[#276 Add a "Groups" tab in project/orgunit model management]
-[#430 Delete group of fields]
-[#511 Category modification flexibility]
-[#854 Docked toolbar for project/orgunit model fields table]
+[#853 Project/orgunit model export/import through an XML format](http://www.sigmah.org/issues/view.php?id=853)
+[#514 Hypertext link in field titles](http://www.sigmah.org/issues/view.php?id=514)
+[#276 Add a "Groups" tab in project/orgunit model management](http://www.sigmah.org/issues/view.php?id=276)
+[#430 Delete group of fields](http://www.sigmah.org/issues/view.php?id=430)
+[#511 Category modification flexibility](http://www.sigmah.org/issues/view.php?id=511)
+[#854 Docked toolbar for project/orgunit model fields table](http://www.sigmah.org/issues/view.php?id=854)
 
 User Prority: 2
 
