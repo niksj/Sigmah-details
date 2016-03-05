@@ -77,3 +77,31 @@ By developing a project idea of that sort, the GSoC volunteer will contribute to
 **Knowledge prerequisite**
 
 Java/GWT.
+
+##Project idea 3: Search
+
+Project Difficulty: Hard
+
+Difficulty comment: Hard project idea for the full-text search engine (which is only user priority 2) becauxe it will require a knowledge of Apache Solr and strong capability to integrate with Sigmah. And this work with Apache Solr to produce a rich search engine has been estimated to a total of 74 man-days of work by experienced Sigmah developers: those 74 days might be reduced if we reduce the expectation of the full-text search engine, so it can fit in 12 weeks (60 man-days) time period of a summer of code.
+
+**Presentation**
+
+Currently, Sigmah offers almost no way to search among projects. Two features have been requested by users to improve Sigmah search capabilities (see examples below). And more can be imagined!
+
+**Examples**
+
+User Prority: 1
+
+- [#536 Dashboard project table extra searchable columns](http://www.sigmah.org/issues/view.php?id=536)    
+
+User Prority: 2
+
+- [#535 Full text search engine](http://www.sigmah.org/issues/view.php?id=536)     
+
+**Impact**
+
+Improved search capabilities would dramatically improved the user experience and the perceived interest to use Sigmah.
+
+**Knowledge prerequisite**
+
+Java/GWT, and Apache Solr for user priority 2 full text search engine.
