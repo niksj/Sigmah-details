@@ -56,19 +56,19 @@ Sigmah flexibility is already provided a great service to its users, but it need
 
 User Prority: 1
 
-[#853 Project/orgunit model export/import through an XML format](http://www.sigmah.org/issues/view.php?id=853)
-[#514 Hypertext link in field titles](http://www.sigmah.org/issues/view.php?id=514)
-[#276 Add a "Groups" tab in project/orgunit model management](http://www.sigmah.org/issues/view.php?id=276)
-[#430 Delete group of fields](http://www.sigmah.org/issues/view.php?id=430)
-[#511 Category modification flexibility](http://www.sigmah.org/issues/view.php?id=511)
-[#854 Docked toolbar for project/orgunit model fields table](http://www.sigmah.org/issues/view.php?id=854)
+- [#853 Project/orgunit model export/import through an XML format](http://www.sigmah.org/issues/view.php?id=853)     
+- [#514 Hypertext link in field titles](http://www.sigmah.org/issues/view.php?id=514)      
+- [#276 Add a "Groups" tab in project/orgunit model management](http://www.sigmah.org/issues/view.php?id=276)     
+- [#430 Delete group of fields](http://www.sigmah.org/issues/view.php?id=430)       
+- [#511 Category modification flexibility](http://www.sigmah.org/issues/view.php?id=511)        
+- [#854 Docked toolbar for project/orgunit model fields table](http://www.sigmah.org/issues/view.php?id=854)       
 
 User Prority: 2
 
-[#390 Renaming project/orgunit default fields]
-[#537 Fold by default option for groups]
-[#120 Multilingual project, orgunit, report models & categorie]
-[#527 Twin fields]     
+- [#390 Renaming project/orgunit default fields](http://www.sigmah.org/issues/view.php?id=390)        
+- [#537 Fold by default option for groups](http://www.sigmah.org/issues/view.php?id=537)                        
+- [#120 Multilingual project, orgunit, report models & categorie](http://www.sigmah.org/issues/view.php?id=120)       
+- [#527 Twin fields](http://www.sigmah.org/issues/view.php?id=527)               
 
 **Impact**
 
