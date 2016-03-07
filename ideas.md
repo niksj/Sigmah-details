@@ -96,7 +96,7 @@ User Prority: 1
 
 User Prority: 2
 
-- [#535 Full text search engine](http://www.sigmah.org/issues/view.php?id=536)     
+- [#535 Full text search engine](http://www.sigmah.org/issues/view.php?id=535)     
 
 **Impact**
 
